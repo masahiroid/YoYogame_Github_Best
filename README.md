@@ -6,6 +6,8 @@
 
 [LegitRPG-Engine](https://github.com/Narwher/LegitRPG-Engine)
 
+[cat](https://github.com/foxfriends/cat)
+
 [RPG_GM](https://github.com/Batora07/RPG_GM)
 
 [grid-based_movement](https://github.com/thbitzer/grid-based_movement)
