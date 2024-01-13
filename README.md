@@ -15,3 +15,5 @@
 [fauxton3D](https://github.com/Gizmo199/fauxton3D)
 
 [Kongfu](https://github.com/CALL1CE/Kongfu_GamemakerStudio2)
+
+[Direction-AI-Pathfinding](https://github.com/Kompjoeter/Gamemaker-Simple-4-Direction-AI-Pathfinding)
