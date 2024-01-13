@@ -17,3 +17,5 @@
 [Kongfu](https://github.com/CALL1CE/Kongfu_GamemakerStudio2)
 
 [Direction-AI-Pathfinding](https://github.com/Kompjoeter/Gamemaker-Simple-4-Direction-AI-Pathfinding)
+
+[Mega-Man-X-Engine](https://github.com/Dragon-Developer/Mega-Man-X-Engine)
