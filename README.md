@@ -19,3 +19,5 @@
 [Direction-AI-Pathfinding](https://github.com/Kompjoeter/Gamemaker-Simple-4-Direction-AI-Pathfinding)
 
 [Mega-Man-X-Engine](https://github.com/Dragon-Developer/Mega-Man-X-Engine)
+
+[odin](https://github.com/GameMakerDiscord/odin)
