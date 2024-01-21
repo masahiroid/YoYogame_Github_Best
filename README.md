@@ -21,3 +21,5 @@
 [Mega-Man-X-Engine](https://github.com/Dragon-Developer/Mega-Man-X-Engine)
 
 [odin](https://github.com/GameMakerDiscord/odin)
+
+[EZ3DCam](https://github.com/PixelatedPope/EZ3DCam)
